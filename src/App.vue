@@ -1,7 +1,13 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <book-list></book-list>
+    <book-list>
+      <h1>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+      </h1>
+    </book-list>
   </div>
 </template>
 
